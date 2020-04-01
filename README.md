@@ -1,1 +1,2 @@
 # N-queens
+# HOSPITAL-MANAGEMENT-SYSTEM
